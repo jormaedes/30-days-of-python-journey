@@ -12,6 +12,7 @@ print(3 ** 4)
 print(3 % 4)
 print(3 // 4)
 
+
 ## Perguntas 3
 print("Jormaedes") # Nome
 print("Luís") # Sobrenome

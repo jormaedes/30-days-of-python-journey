@@ -1,57 +1,25 @@
-# 💻 Exercícios - Dia 1
+# 📘 Dia 1 — Introduction
 
-## 📌 Exercício: Level 1
-
-### 1 Verificar versão do Python
-- Cheque a versão do Python que você está usando.
-
-### 2 Operações no Shell Interativo Python
-Abra o shell interativo do Python e execute as seguintes operações com os operandos **3 e 4**:
-
-- Adição (`+`)
-- Subtração (`-`)
-- Multiplicação (`*`)
-- Módulo (`%`)
-- Divisão (`/`)
-- Exponencial (`**`)
-- Divisão inteira (`//`)
-
-### 3 Trabalhando com Strings no Shell
-Escreva as seguintes strings no shell interativo:
-
-- Seu nome
-- Seu sobrenome
-- Seu país
-- `Eu estou aproveitando o 30 dias de python`
-
-### 4 Verificar Tipos de Dados
-Use a função `type()` para verificar o tipo dos seguintes dados:
-
-- `10`
-- `9.8`
-- `3.14`
-- `4 - 4j`
-- `['Asabeneh', 'Python', 'Finland']`
-- Seu nome
-- Seu sobrenome
-- Seu país
+📖 **Conteúdo do curso:** [Day 1 - Introduction](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/readme.md)
+💻 **Exercícios resolvidos:** [exercises.py](./exercises.py)
 
 ---
 
-## 📌 Exercício: Level 2
+## ✏️ O que aprendi hoje
 
-1. Crie uma pasta chamada `dia_1` dentro da pasta `30DiasDePython`.
-2. Dentro da pasta `dia_1`, crie um arquivo Python chamado `helloworld.py`.
-3. Repita as perguntas **1, 2, 3 e 4 do Level 1** dentro do arquivo.
-4. Lembre-se de usar `print()` ao trabalhar no arquivo `.py`.
-5. Navegue até o diretório onde o arquivo foi salvo e execute-o no terminal.
+- Python é uma linguagem interpretada e de alto nível
+- O ambiente de desenvolvimento inclui o Python Shell e o VS Code
+- Tipos de dados básicos: `int`, `float`, `complex`, `str`, `bool`, `list`, `tuple`, `set`, `dict`
+- A função `type()` permite verificar o tipo de qualquer dado
 
-Exemplo para executar o arquivo:
+---
 
-```bash
-python helloworld.py
+## 📌 Snippets úteis
+
+```python
+# Verificar o tipo de uma variável
+print(type(10))        # <class 'int'>
+print(type(3.14))      # <class 'float'>
+print(type("Olá"))     # <class 'str'>
+print(type(True))      # <class 'bool'>
 ```
----
-## 📌 Exercicio: Level 3
-1. Escreva um exemplo para diferentes tipos de dados Python, como Número (Inteiro, Flutuante, Complex),Strings, Booleanos, Listas, Tuplas, Set e Dicionário.
-2. Ache a Distancia Euclidiana entre (2, 3) e (10, 8)
