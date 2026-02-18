@@ -17,7 +17,7 @@ Este repositório serve como diário de aprendizagem. A cada dia concluído, atu
 |-----|------|--------|-------|
 | 01 | [Introduction](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/readme.md) | ✅ Concluído | [📝 Ver notas](./day_01_introduction/notes.md) |
 | 02 | [Variables & Built-in Functions](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/02_Day_Variables_builtin_functions/02_variables_builtin_functions.md) | ✅ Concluído | [📝 Ver notas](./day_02_variables/notes.md) |
-| 03 | [Operators](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/03_Day_Operators/03_operators.md) | ⏳ Por fazer | - |
+| 03 | [Operators](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/03_Day_Operators/03_operators.md) | ✅ Concluído | [📝 Ver notas](./day_03_operators/notes.md) |
 | 04 | [Strings](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/04_Day_Strings/04_strings.md) | ⏳ Por fazer | — |
 | 05 | [Lists](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/05_Day_Lists/05_lists.md) | ⏳ Por fazer | — |
 | 06 | [Tuples](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/06_Day_Tuples/06_tuples.md) | ⏳ Por fazer | — |
