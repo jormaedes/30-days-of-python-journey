@@ -13,6 +13,12 @@
 
 ---
 
+## 💡 Conceitos que achei interessantes
+
+- Variáveis em Python não precisam de declaração de tipo, simplesmente dá-se um nome e atribui-se um valor
+
+---
+
 ## 📌 Snippets úteis
 
 ```python
