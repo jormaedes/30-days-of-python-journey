@@ -71,10 +71,11 @@ Este repositório serve como diário de aprendizagem. A cada dia concluído, atu
 ## 🛠️ Como atualizo este repositório diariamente
 
 1. Leio o conteúdo do dia no curso original
-2. Escrevo as minhas notas em `notes.md`
-3. Resolvo os exercícios em `exercises.py`
-4. Faço commit com a mensagem: `Day XX - Tema: exercises completed`
-5. Atualizo a tabela de progresso neste README
+2. Pesquiso mais sobre o assunto em outras fontes
+3. Escrevo as minhas notas em `notes.md`
+4. Resolvo os exercícios em `exercises.py`
+5. Faço commit com a mensagem: `Day XX - Tema: exercises completed`
+6. Atualizo a tabela de progresso neste README
 
 ---
 
